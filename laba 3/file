@@ -1,0 +1,39 @@
+@startuml
+skinparam actor {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+autonumber
+
+actor "сис админ" as user
+boundary "дисплей" as dis
+entity "возможные дефекты" as def
+entity "ссылки на файлы" as ss
+control "система выдачи ссылок на файлы" as ssfile
+
+
+user-> dis: образ
+activate dis
+dis-->user: ok
+deactivate dis
+
+
+dis->def:проверка файлов на ошибки
+activate def
+def-->dis:ошибка
+deactivate def
+
+
+def->ss:запись ссылки на файл
+activate ss
+
+
+
+ss->ssfile: проверка на наличие ссылки
+activate ssfile
+ssfile-->ss: ссылка
+deactivate ssfile
+ss--> dis: ok
+deactivate ss
+@enduml
