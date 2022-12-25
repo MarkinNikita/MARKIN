@@ -22,8 +22,9 @@
 2. Регистрация участников.
 3. И иные необходимые функции в зависимости от потребностей заказчика.
 
-[Git-репозиторий проекта](https://github.com/MarkinNikita/aboba)
-[сайт](https://aboba-git-main-markinnikita.vercel.app)
+ [Git-репозиторий проекта](https://github.com/MarkinNikita/aboba) 
+ 
+ [сайт](https://aboba-git-main-markinnikita.vercel.app) 
 
 Landing Page проекта - [TBD]
 
