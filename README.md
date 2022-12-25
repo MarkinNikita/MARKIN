@@ -24,9 +24,9 @@
 
  [Git-репозиторий проекта](https://github.com/MarkinNikita/aboba) 
  
- [сайт](https://aboba-git-main-markinnikita.vercel.app) 
+  
 
-Landing Page проекта - [TBD]
+Landing Page проекта - [проект](https://aboba-git-main-markinnikita.vercel.app)
 
 ## Лабораторная 3
 
