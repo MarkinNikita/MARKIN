@@ -23,6 +23,7 @@
 3. И иные необходимые функции в зависимости от потребностей заказчика.
 
 [Git-репозиторий проекта](https://github.com/MarkinNikita/aboba)
+[сайт](https://aboba-git-main-markinnikita.vercel.app)
 
 Landing Page проекта - [TBD]
 
@@ -34,4 +35,4 @@ Landing Page проекта - [TBD]
 
 [Отчет](https://docs.google.com/document/d/1MXkx5OnNbrDOvScKbgKaxxiPgp3-GZzg/edit?usp=sharing&ouid=101144389843389099333&rtpof=true&sd=true)
 
-## Экзаменационный билет 6: [Билет](https://github.com/stankin/inet-2022/wiki/exam06)
+## Экзаменационный билет 6: [Билет](https://github.com/stankin/inet-2022/wiki/exam21): [commit](https://github.com/stankin/inet-2022/wiki/exam21/_compare/9b8c002b37605e08ca57cc33e2ca276b117a6a01...8c40b35752bb17f97f3bce62fc807a3526759c97)
